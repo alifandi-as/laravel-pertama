@@ -221,3 +221,7 @@ Route::post('post-file-upload', function(Request $request){
     $upload = Storage::put('image',$request->profile);
     return asset("storage/{$upload}");
 });
+
+Route::get('/tes',function(){
+    return "Sample-Route";
+});
