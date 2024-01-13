@@ -225,3 +225,4 @@ Route::post('post-file-upload', function(Request $request){
 Route::get('/tes',function(){
     return "Sample-Route";
 });
+Route::get('',function(){});
