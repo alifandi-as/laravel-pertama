@@ -1,0 +1,28 @@
+{
+        "beranda" : {
+            "welcome" : "WELCOME",
+            "hello" : "HELLO"
+        },
+
+    "navbar_home" : "Home",
+    "navbar_about" : "About",
+    "navbar_articles" : "Articles",
+    "navbar_contact" : "Contact",
+    
+    "sections_about" : "About",
+    "sections_articles" : "Articles",
+    "sections_contact" : "Contact",
+    "description" : "I'm <b>Alifandi Ahmad Suryawan</b>, from SMKN 11 Semarang. I am a beginner web & game developer. Right now, I'm in 11 GIM 1 (11th grade, game devlopment). I'm currently 16 years old and have a height of ~173 cm and a weight of 76.7 kg.<br><br>Since when I was a child, I loved games and programming. At the time, I was using Scratch, where I used blocks to build various projects. Then I moved to Snap!, then Python, and finally PHP & HTML. My dream is to leap forward, bring knowledge & raise awareness to people, and make Indonesia and the world a better place to live.",
+
+    "articles_title" : "Borobudur Temple",
+    "articles_description" : "Borobudur, also transcribed Barabudur (Indonesian: Candi Borobudur, Javanese: ꦕꦤ꧀ꦝꦶꦧꦫꦧꦸꦝꦸꦂ, romanized: Candhi Barabudhur) is a 9th-century Mahayana Buddhist temple in Magelang Regency, not far from the city of Magelang and the town of Muntilan, in Central Java, Indonesia. Constructed of gray andesite stone, the temple consists of nine stacked platforms, six square and three circular, topped by a central dome. It is decorated with 2,672 relief panels and originally 504 Buddha statues. The central dome is surrounded by 72 Buddha statues, each seated inside a perforated stupa.",
+    "articles_read" : "Read",
+    "articles_back" : "Back",
+
+    "contact_name" : "Name",
+    "contact_email" : "Email",
+    "contact_message" : "Message",
+    "contact_send" : "Send",
+
+    "copyright" : "© 2023 Copyright Alifandi Ahmad Suryawan"
+}

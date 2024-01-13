@@ -1,0 +1,26 @@
+{
+    "welcome" : "SELAMAT DATANG",
+    "hello" : "HALO",
+
+    "navbar_home" : "Beranda",  
+    "navbar_about" : "Tentang",  
+    "navbar_articles" : "Artikel",  
+    "navbar_contact" : "Kontak",
+
+    "sections_about" : "Tentang",  
+    "sections_articles" : "Artikel",  
+    "sections_contact" : "Kontak",
+    "description" : "Saya <b>Alifandi Ahmad Suryawan</b>, dari SMKN 11 Semarang. Saya adalah pengembang web & game pemula. Saat ini, kelas saya 11 GIM 1 (kelas 11, pengembangan game). Saya saat ini berumur 17 tahun dan memiliki tinggi ~173 cm dan berat 76,7 kg. <br><br>Sejak saya kecil, saya suka game dan pemrograman. Pada waktu itu, saya menggunakan Scratch, dimana saya menggunakan blok untuk membuat berbagai projek. Kemudian saya pindah ke Snap!, kemudian Python, dan akhirnya PHP & HTML. Mimpi saya adalah untuk melangkah maju, memberikan pengetahuan & meningkatkan kesadaran kepada orang, dan membuat Indonesia dan seluruh dunia tempat hidup yang lebih baik.",
+
+    "articles_title" : "Candi Borobudur",
+    "articles_description" : "Candi Borobudur (Jawa: ꦕꦟ꧀ꦝꦶꦧꦫꦧꦸꦝꦸꦂ, translit. Candhi Båråbudhur) adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Monumen ini terdiri atas enam teras berbentuk bujur sangkar yang di atasnya terdapat tiga pelataran melingkar, pada dindingnya dihiasi dengan 2.672 panel relief dan aslinya terdapat 504 arca Buddha. Stupa utama terbesar teletak di tengah sekaligus memahkotai bangunan ini, dikelilingi oleh tiga barisan melingkar 72 stupa berlubang yang di dalamnya terdapat arca Buddha tengah duduk bersila dalam posisi teratai sempurna dengan mudra (sikap tangan) Dharmachakra mudra (memutar roda dharma).",
+    "articles_read" : "Baca",
+    "articles_back" : "Kembali",
+
+    "contact_name" : "Nama",
+    "contact_email" : "Email",
+    "contact_message" : "Pesan",
+    "contact_send" : "Kirim",
+
+    "copyright" : "© Hak Cipta 2023 Alifandi Ahmad Suryawan"
+}
