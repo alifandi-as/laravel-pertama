@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <siswa>
+        <id>01</id>
+        <nama>Khoirun</nama>
+        <aktivitas>Belajar</aktivitas>
+        <tanggal>Januari 2022</tanggal>
+    </siswa>
+    <siswa>
+        <id>02</id>
+        <nama>Nisa</nama>
+        <aktivitas>Coding</aktivitas>
+        <tanggal>Januari 2022</tanggal>
+    </siswa>
+</root>
