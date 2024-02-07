@@ -2,15 +2,17 @@
     "siswa": [
         {
             "id":"01",
-            "nama":"Khoirun",
             "aktivitas":"Belajar",
-            "tanggal":"Januari 2022"
+            "tanggal":"Januari 2022",
+            "nama":"Khoirun"
+
         },
         {
             "id":"02",
-            "nama":"Nisa",
             "aktivitas":"Coding",
-            "tanggal":"Januari 2022"
+            "tanggal":"Januari 2022",
+            "nama":"Nisa"
+
         }
     ]
 }
