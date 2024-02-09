@@ -1,9 +1,11 @@
 <?php
 
+use App\Services\UserService;
 use App\Helpers\Aritmatika;
 use App\Helpers\Validation;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\App;
+use App\Repositories\UserRepository;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Storage;
@@ -222,7 +224,32 @@ Route::post('post-file-upload', function(Request $request){
     return asset("storage/{$upload}");
 });
 
+Route::get('/beranda',[
+    BerandaController::class,
+    'index'
+]);
+
 Route::get('/tes',function(){
     return "Sample-Route";
 });
-Route::get('',function(){});
+Route::get('/tugas10/repository/detail',function(){
+    return UserRepository::listAllUsersDetail();
+});
+
+Route::get('/tugas10/repository/name',function(){
+    return UserRepository::listAllUsersName();
+});
+
+Route::get('/tugas10/service/detail',function(){
+    return UserService::listAllUsersDetail();
+});
+
+$username = "kelas_industri";
+$password = "2024";
+Route::get('/basic-auth', function(Request $request){
+    return $request->header();
+});
+
+Route::get('/tugas10/service/name',function(){
+    return UserService::listAllUsersName();
+});
