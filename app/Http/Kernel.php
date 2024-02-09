@@ -66,6 +66,7 @@ class Kernel extends HttpKernel
 
         'auth-middleware' => \App\Http\Middleware\AuthMiddleware::class,
         'validation-middleware' => \App\Http\Middleware\ValidationMiddleware::class,
-        'login-middleware' => \App\Http\Middleware\LoginMiddleware::class
+        'login-middleware' => \App\Http\Middleware\LoginMiddleware::class,
+        'api-auth' => \App\Http\Middleware\ApiAuthMiddleware::class
     ];
 }
