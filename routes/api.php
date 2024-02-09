@@ -23,10 +23,10 @@ Route::controller(ApiUserController::class)
 ->prefix("/users")
 ->group(function (){
     Route::get("/","index"); // list user => /users/
-    Route::get("/[id]","show"); // list user => /users/
+    Route::get("/{id}","show"); // list user => /users/
     Route::post("/","store"); // list user => /users/
-    Route::put("/[id]","update"); // list user => /users/
-    Route::delete("/[id]","destroy"); // list user => /users/
+    Route::put("/{id}","update"); // list user => /users/
+    Route::delete("/{id}","destroy"); // list user => /users/
 });
 
 
